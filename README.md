@@ -163,7 +163,7 @@ If you are interested in collaborating or discussing backend engineering opportu
 
 * Email: [naufalariewp@outlook.com](mailto:naufalariewp@outlook.com)
 * LinkedIn: [https://www.linkedin.com/in/naufalariewp](https://www.linkedin.com/in/naufalariewp)
-* GitHub: (add your GitHub link)
+* GitHub: [https://github.com/noopalert](https://github.com/noopalert)
 
 ---
 
