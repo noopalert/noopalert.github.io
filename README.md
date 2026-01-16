@@ -6,9 +6,6 @@
 🔗 LinkedIn: https://www.linkedin.com/in/naufalariewp  
 💻 GitHub: https://github.com/noopalert  
 
-**Backend Engineer / Technical Consultant**  
-Bekasi, Indonesia
-
 ---
 
 ## 👋 About Me
