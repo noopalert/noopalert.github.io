@@ -4,13 +4,11 @@
 📍 Bekasi, Indonesia  
 📧 naufalariewp@outlook.com  
 🔗 LinkedIn: https://www.linkedin.com/in/naufalariewp  
+💻 GitHub: https://github.com/noopalert
 # Naufal Arie Wahyu Priadi
 
 **Backend Engineer / Technical Consultant**
 Bekasi, Indonesia
-📧 [naufalariewp@outlook.com](mailto:naufalariewp@outlook.com)
-🔗 LinkedIn: [https://www.linkedin.com/in/naufalariewp](https://www.linkedin.com/in/naufalariewp)
-💻 GitHub: [https://github.com/noopalert](https://github.com/noopalert)
 
 ---
 
@@ -53,7 +51,7 @@ I am a Backend Engineer with hands-on experience in building and maintaining pro
 ## ⭐ Featured Project
 
 ## Foreplan API
-
+[Foreplan](https://foreplan.id)
 **Business Forecasting Backend System**
 *Dec 2024 – Present*
 
